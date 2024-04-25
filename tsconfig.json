@@ -1,0 +1,3 @@
+{
+  "extends": "@rada/typescript-config/base.json"
+}
